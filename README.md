@@ -31,3 +31,4 @@ valor_hora = salario / dias_trabalho / hora_trabalho
 print('Seu valor por hora trabalhada é:', valor_hora)
 ```
 
+[1]: (https://wiki.python.org.br/ListaDeExercicios) "Lista De Exercicios"
