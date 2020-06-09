@@ -1,6 +1,6 @@
 # Lista de exercicios Python
 
-[Lista De Exercicios - Python Brasil][1]
+[Lista de Exercícios](https://wiki.python.org.br/ListaDeExercicios "Lista de Exercícios")
 
 ## Praticando com Python
 
@@ -31,4 +31,3 @@ valor_hora = salario / dias_trabalho / hora_trabalho
 print('Seu valor por hora trabalhada é:', valor_hora)
 ```
 
-[1]: (https://wiki.python.org.br/ListaDeExercicios) "Lista De Exercicios"
