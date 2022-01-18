@@ -4,7 +4,7 @@
 
 ## Praticando com Python
 
-Neste portifólio contém a resolução de uma lista exercicios utilizando a linguagem Python, os arquivos que contém a palavra **"extra"** são melhorias que desenvolvi com base na necessidade que encontrei no exercicio proposto.
+Neste repositório contém a resolução de uma lista exercicios utilizando a linguagem Python, os arquivos que contém a palavra **"extra"** são melhorias que desenvolvi com base na necessidade que encontrei no exercicio proposto.
 
 ## Exemplo: 
  Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês. 
